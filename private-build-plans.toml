@@ -1,0 +1,88 @@
+[buildPlans.iosevka-karakum]
+family = "Iosevka Karakum"
+spacing = "normal"
+serifs = "sans"
+no-cv-ss = true
+
+[buildPlans.iosevka-karakum.variants.design]
+capital-a = "curly-serifless"
+capital-c = "serifless"
+capital-d = "standard-serifless"
+capital-g = "toothless-rounded-serifless-hooked"
+capital-j = "flat-hook-serifed"
+capital-k = "curly"
+capital-m = "hanging"
+capital-n = "asymmetric"
+capital-p = "closed"
+capital-q = "curly-tailed"
+capital-r = "standing"
+capital-s = "serifless"
+capital-t = "serifless"
+capital-v = "curly"
+capital-w = "curly"
+capital-x = "curly-serifless"
+capital-y = "curly-serifless"
+capital-z = "curly-serifless"
+a = "double-storey"
+b = "toothed"
+d = "toothed-serifless"
+e = "flat-crossbar"
+f = "flat-hook"
+g = "double-storey"
+h = "straight"
+i = "hooky"
+k = "curly"
+m = "normal"
+p = "eared"
+q = "straight"
+r = "serifless"
+t = "flat-hook"
+u = "toothless-rounded"
+v = "curly"
+w = "curly"
+x = "curly-serifless"
+y = "curly"
+z = "curly-serifless"
+zero = "slashed"
+one = "nobase-long-top-serif"
+two = "curly-neck"
+four = "semi-open-non-crossing"
+six = "closed-contour"
+seven = "curly-serifless"
+eight = "crossing"
+nine = "closed-contour"
+tilde = "low"
+asterisk = "penta-low"
+underscore = "high"
+paren = "large-contour"
+brace = "curly"
+number-sign = "upright"
+ampersand = "upper-open"
+at = "threefold"
+cent = "through"
+percent = "rings-segmented-slash"
+lig-ltgteq = "slanted"
+question = "smooth"
+
+  [buildPlans.iosevka-karakum.ligations]
+  inherits = "dlig"
+
+[buildPlans.iosevka-karakum.weights.light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.iosevka-karakum.weights.regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.iosevka-karakum.weights.medium]
+shape = 500
+menu = 500
+css = 500
+
+[buildPlans.iosevka-karakum.weights.bold]
+shape = 700
+menu = 700
+css = 700
