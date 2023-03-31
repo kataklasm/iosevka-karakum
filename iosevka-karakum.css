@@ -1,4 +1,3 @@
-
 /* @font-face { */
 /* 	font-family: 'Iosevka Karakum Web'; */
 /* 	font-display: swap; */
@@ -75,7 +74,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('https://github.com/kataklasm/iosevka-karakum/blob/master/woff2/iosevka-karakum-regular.woff2?raw=true') format('woff2'), url('https://github.com/kataklasm/iosevka-karakum/blob/master/ttf/iosevka-karakum-regular.ttf?raw=true') format('truetype');
+	src: url('https://raw.githubusercontent.com/kataklasm/iosevka-karakum/blob/master/woff2/iosevka-karakum-regular.woff2?raw=true') format('woff2'), url('https://raw.githubusercontent.com/kataklasm/iosevka-karakum/blob/master/ttf/iosevka-karakum-regular.ttf?raw=true') format('truetype');
 }
 
 /* @font-face { */
